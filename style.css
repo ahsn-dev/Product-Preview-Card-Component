@@ -8,7 +8,7 @@
     --white: hsl(0, 0%, 100%);
 }
 
-body {
+html {
     background-color: var(--cream);
 }
 
